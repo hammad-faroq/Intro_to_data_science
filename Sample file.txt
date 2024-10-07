@@ -1,1 +1,0 @@
-This is a sample file for testing whether git is connected with my github repository or not :)
