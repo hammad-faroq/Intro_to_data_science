@@ -1,0 +1,116 @@
+body{
+    font : 15px / 1.5 arial,helvetica,sans_serif;
+    padding : 0px;
+    margin: 0px;
+    background-color:rgb(238, 234, 234);
+
+}
+/* global setting*/
+.container{
+    width:80%;
+    margin:auto;
+    overflow:hidden;
+        
+}
+.dark {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: darkslategray;
+    color: white;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+.button1{
+    height: 30px;
+    background-color: orangered;
+    border:none;
+    color:white;
+
+}
+/* for header*/
+header{
+    background-color: darkslategray;
+    color:white;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom:rgb(244, 85, 27)3px solid;    
+}
+header a{
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+
+header li{
+    float : left;
+    display :inline;
+    padding:0 20px 0 20px;
+    
+}
+header #branding{
+    float:left;
+}
+header #branding h1{
+    margin: 0;    
+
+}
+header nav{
+    float: right;
+    margin-top: 10px;
+}
+header .highlight , header .current a{
+    color: orangered;
+    font-weight: bold;
+}
+header a:hover{
+    font-weight: bold;
+    color: lightgray;
+}
+/*showcase*/
+#showcase {
+    position: relative;
+    min-height: 400px;
+    background: url('/images/bgp.jpeg') no-repeat center center;
+    background-size: cover;
+    z-index: 1; /* Ensure content is above the overlay */
+    padding: 20px;
+    text-align: center;
+    color : white /* Add some padding to see the content clearly */
+}
+
+#showcase::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(64, 146, 173, 0.7); /* Adjust the color and opacity here */
+    z-index: -1; /* Ensure the overlay is below the content */
+    pointer-events: none; /* Allows interaction with elements below the overlay */
+}
+#showcase h1{
+    margin-top: 100px;
+    font-size: 45px;
+    margin-bottom :10px;
+}
+#showcase p{
+    font-size: 20px;
+/*newsletter*/
+}
+#newsletter{
+    background-color: darkslategray;
+}
+#newsletter h1{
+    float: left;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    padding-right:10px;
+    padding-top: 10px;
+    color: white;
+
+}
