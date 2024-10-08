@@ -1,0 +1,46 @@
+body{
+    font : 15px / 1.5 arial,helvetica,sans_serif;
+    padding : 0px;
+    margin: 0px;
+    background-color:rgb(238, 234, 234);
+
+}
+/* global setting*/
+.container{
+    width:80%;
+    margin:auto;
+    overflow:hidden;
+        
+}
+.dark {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: darkslategray;
+    color: white;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+.button1{
+    height: 30px;
+    background-color: orangered;
+    border:none;
+    color:white;
+
+}
+/* for header*/
+header{
+    background-color: darkslategray;
+    color:white;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom:rgb(244, 85, 27)3px solid;    
+}
+header a{
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+}
