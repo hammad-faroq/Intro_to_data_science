@@ -1,0 +1,38 @@
+[
+  {
+    "deal": {
+      "product_description": "The Samsung Galaxy Watch Ultra is a premium 47mm LTE Titanium smartwatch designed for both style and functionality. It features a circular display made with durable materials suitable for outdoor activities, providing GPS tracking, health monitoring, and custom apps for various needs. The robust design integrates a range of smart features including notifications, music control, and heart rate tracking, making it an ideal companion for fitness enthusiasts and tech-savvy users alike.",
+      "price": 350.0,
+      "url": "https://www.dealnews.com/Samsung-Galaxy-Watch-Ultra-47-mm-LTE-Titanium-Smartwatch-up-to-350-off-w-Trade-in-free-shipping/21663266.html?iref=rss-c142"
+    },
+    "estimate": 773.8138460593241,
+    "discount": 423.8138460593241
+  },
+  {
+    "deal": {
+      "product_description": "The Refurbished Unlocked Apple iPhone 14 Pro Max offers an impressive 256GB storage and a huge display, perfect for both media consumption and productivity. Enjoy advanced camera technology for stunning photos. This model is designed to provide a seamless user experience with 5G capabilities for faster downloads and streaming. Refurbished to high standards, it comes in various colors and can support all the latest apps from the App Store, accommodating any Apple enthusiast's needs.",
+      "price": 705.0,
+      "url": "https://www.dealnews.com/products/Apple/Unlocked-Apple-iPhone-14-Pro-Max-256-GB-Smartphone/462808.html?iref=rss-c142"
+    },
+    "estimate": 930.8824204895075,
+    "discount": 225.88242048950747
+  },
+  {
+    "deal": {
+      "product_description": "The Onn 100012590 24\" 720p LED Smart TV features a 1280x720 resolution, works with Apple Home, Amazon Alexa, and Google Assistant, has three HDMI ports, and is priced at $74 + free shipping.",
+      "price": 74.0,
+      "url": "https://www.dealnews.com/products/Onn/Onn-100012590-24-720-p-LED-Smart-TV/491867.html?iref=rss-c142"
+    },
+    "estimate": 124.08211079079226,
+    "discount": 50.08211079079226
+  },
+  {
+    "deal": {
+      "product_description": "This Hisense A4 Series 32A45K 32-inch 1080p LED smart TV features a 1920x1080 resolution, Google TV, and works with Google Assistant. It also has one HDMI port for connecting external devices.",
+      "price": 99.99,
+      "url": "https://www.dealnews.com/products/Hisense/Hisense-A4-Series-32-A45-K-32-1080-p-LED-Smart-TV/491868.html?iref=rss-c142"
+    },
+    "estimate": 230.26703274286808,
+    "discount": 130.27703274286807
+  }
+]
